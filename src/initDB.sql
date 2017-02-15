@@ -64,3 +64,4 @@ CREATE TABLE IF NOT EXISTS customer_project (
   FOREIGN KEY (customer_id) REFERENCES customers(id),
   FOREIGN KEY (project_id) REFERENCES projects(id)
 );
+
