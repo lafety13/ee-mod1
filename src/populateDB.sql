@@ -82,6 +82,7 @@ INSERT INTO project_developers VALUES (1, 2);
 INSERT INTO project_developers VALUES (1, 3);
 INSERT INTO project_developers VALUES (3, 4);
 INSERT INTO project_developers VALUES (2, 5);
+INSERT INTO project_developers VALUES (2, 6);
 
 /* //////////////////////////////////////////////// */
 

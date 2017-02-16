@@ -13,3 +13,9 @@ WHERE id = 3;
 UPDATE developers
 SET salary = 6000
 WHERE id = 4;
+UPDATE developers
+SET salary = 5000
+WHERE id = 6;
+UPDATE developers
+SET salary = 5000
+WHERE id = 5;
